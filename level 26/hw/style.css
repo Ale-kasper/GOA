@@ -1,0 +1,22 @@
+/* reset css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* colour*/
+body{
+    background-color: rgb(243, 199, 234);
+}
+
+h1{
+    color: rgb(178, 152, 203);
+}
+
+p{
+    color: rgb(120, 55, 104);
+}
+
+h2{
+    color: rgb(212, 149, 200);
+}

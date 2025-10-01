@@ -1,0 +1,18 @@
+/* reset css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* colour*/
+h1{
+    color: rgb(124, 87, 60);
+}
+
+p{
+    color: rgb(137, 103, 41);
+}
+
+h2{
+    color: orange;
+}
