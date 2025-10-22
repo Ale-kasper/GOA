@@ -1,0 +1,20 @@
+/* reset css */
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.background{
+    background-image: url(./assets/images/scandal.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+h1{
+    color: rgb(247, 222, 241);
+    background-color: rgb(184, 45, 137);
+    text-align: center;
+}
