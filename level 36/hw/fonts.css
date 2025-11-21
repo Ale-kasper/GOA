@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Momo+Trust+Display&display=swap');
+
+.kasper{
+    font-family: "Momo Trust Display", sans-serif;
+    color: green;
+    font-weight: bold;
+    font-size: bolder;
+    text-align: center;
+    font-size: 1000%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Momo+Signature&family=Momo+Trust+Display&display=swap');
+.paragraph{
+    font-family: "Momo Signature", cursive;
+    color:rgb(66, 83, 48)
+}

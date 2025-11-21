@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik+Spray+Paint&display=swap');
+
+.paragraph{
+    font-family: "Rubik Spray Paint", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(9, 25, 106);
+  font-size: 27px;
+  font-weight: 300;
+  font-variation-settings: "wght"200;
+
+}
+
+.title{
+    font-family: "Birthstone", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(46, 46, 93);
+}
+

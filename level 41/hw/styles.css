@@ -1,0 +1,80 @@
+/* reset css */
+
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.kvadrat{
+    display: flex;
+    background-color: rgb(90, 102, 162);
+    color: rgb(35, 35, 155);
+    width: 100px;
+    height: 100px;
+}
+
+.kvad{
+    background-color: rgb(45, 68, 122);
+    width: 100px;
+    height: 100px;
+}
+
+.kvadi{
+    background-color: rgb(45, 122, 103);
+    width: 100px;
+    height: 100px;
+    border: solid 2px;
+}
+
+.parent{
+    display: flex;
+}
+.box{
+    background-color: rgb(45, 122, 103);
+    width: 50px;
+    height: 50px;
+    border: solid 2px;
+}
+
+.box1{
+    background-color: rgb(45, 122, 103);
+    width: 50px;
+    height: 50px;
+    border: solid 2px;
+}
+
+.box2{
+    background-image: linear-gradient(rgb(9, 88, 122), rgb(0, 255, 162));
+    width: 50px;
+    height: 50px;
+    border: rgb(44, 73, 81) 2px;
+}
+
+.kasper{
+    background-color: rgb(178, 167, 64);
+    width: 300px;
+    height: 300px;
+    border: solid 2px;
+}
+
+.kasper2{
+    background-color: rgb(212, 153, 64);
+    width: 300px;
+    height: 300px;
+    border: solid 2px;
+}
+
+.kasper3{
+    background-color: rgb(198, 160, 55);
+    width: 300px;
+    height: 300px;
+    border: solid 2px;
+}
+
+.kasper4{
+    background-color: rgb(156, 139, 55);
+    width: 300px;
+    height: 300px;
+    border: solid 2px;
+}

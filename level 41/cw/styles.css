@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+.halo{
+    color: rgb(164, 100, 223);
+    width: 500px;
+    height: 500px;
+    background-image: linear-gradient(purple, rgb(225, 77, 225));
+}
+
+.helo{
+    color: rgb(85, 85, 234);
+    width: 50%;
+    height: 50%;
+    background-image: linear-gradient(rgb(32, 87, 189), blue);
+}
+
+
+.hai{
+    color: rgb(213, 58, 58);
+    width: 100vw;
+    height: 50vh;
+    background-image: linear-gradient(brown, rgb(95, 42, 42), rgb(68, 5, 5));
+}
+
+.axali_weli{
+    color: rgb(132, 218, 47);
+    width: 2rem;
+    height: 2rem;
+    background-image: linear-gradient(rgb(64, 118, 64), rgb(171, 247, 171), green);
+}
+
+
+.kasperito_parent{
+    display: flex;
+    background-color: rgb(148, 92, 200);
+    width: 500px;
+    height: 500px;
+    border: 3px rgb(101, 65, 101);
+    color: rgb(66, 23, 105);
+    text-align: center;
+    gap: 20px;
+}
+

@@ -1,0 +1,34 @@
+/* reset css */
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+@font-face{
+    font-family: "Roboto";
+    src: url(./assets/fonts/Roboto/Roboto-Italic-VariableFont_wdth\,wght.ttf);
+    font-style: italic;
+}
+
+.text{
+    color: rgb(105, 177, 175);
+    padding: 1%;
+    background-color: rgb(107, 217, 200);
+    text-align: center;
+}
+.roboto-font{
+    font-family: "Roboto", sans-serif;
+    font-style: italic;
+    color: rgb(33, 212, 152);
+    text-align: center;
+}
+
+.turt{
+    text-align: center;
+    padding: 5%;
+}
+
+.bg{
+    background-image: linear-gradient(rgb(0, 124, 128), rgb(94, 176, 192), rgb(63, 103, 110));
+}

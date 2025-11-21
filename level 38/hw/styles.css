@@ -1,0 +1,18 @@
+/* reset css */
+
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+@font-face{
+    font-family: "Playwrite CZ";
+    src: url(./assets/fonts/Playwrite_CZ/PlaywriteCZ-VariableFont_wght.ttf);
+    font-style: italic;
+}
+
+.qartvel{
+    color: rgb(50, 210, 156);
+    background-image: linear-gradient(rgb(59, 97, 108), rgb(11, 155, 188));
+}
