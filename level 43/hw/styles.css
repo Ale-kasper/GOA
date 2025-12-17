@@ -1,0 +1,36 @@
+/* reset css */
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.deathstage{
+    display: flex;
+    justify-content: center;
+    color: rgb(214, 136, 206);
+    background-color: rgb(135, 83, 135);
+}
+
+.cube3{
+    background-color: rgb(218, 95, 150);
+    width: 100px;
+    height: 100px;
+}
+
+.cube2{
+    background-color: hwb(311 50% 7%);
+    width: 100px;
+    height: 100px;
+}
+
+.cube1{
+    background-color: hwb(311 27% 7%);
+    width: 100px;
+    height: 100px;
+}
+
+.cubes{
+    display: flex;
+    justify-content: center;
+}
